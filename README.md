@@ -5,7 +5,7 @@
 | Serial no. | Project name    | Live Project link                                                | Code Base                                   |
 |------------|-----------------|------------------------------------------------------------------|---------------------------------------------|
 |     1.     | Calculator      | [Calculator](https://calculator-umber-one.vercel.app/)           | [Calculator](https://github.com/Ashish-khanagwal/Awesome-web-dev/tree/main/Dhruvi's-Frontend-Project/DAY%20(CALCULATOR)) |
-|     2.     | swiggy slider   | [Swiggy slider](https://swiggy-slider.vercel.app/)               | [Swiggy slider](https://github.com/Ashish-khanagwal/Awesome-web-dev/tree/main/Dhruvi's-Frontend-Project/DAY%20(SWIGGY'S%20SLIDER)) |
+|     2.     | Swiggy slider   | [Swiggy slider](https://swiggy-slider.vercel.app/)               | [Swiggy slider](https://github.com/Ashish-khanagwal/Awesome-web-dev/tree/main/Dhruvi's-Frontend-Project/DAY%20(SWIGGY'S%20SLIDER)) |
 |     3.     | Carousel        | [Carousel](https://carousel-teal.vercel.app/)                    | [Carousel](https://github.com/Ashish-khanagwal/Awesome-web-dev/tree/main/Dhruvi's-Frontend-Project/DAY%20(CAROUSEL)) |
 |     4.     | Form validation | [Form validation](https://form-validation-eta-sepia.vercel.app/) | [Form validation](https://github.com/Ashish-khanagwal/Awesome-web-dev/tree/main/Dhruvi's-Frontend-Project/DAY%20(%20FORM%20%20VALIDATION%20)) |
 |     5.     | Sticky notes    | [Sticky notes](https://sticky-notes-six.vercel.app/)             | [Sticky notes](https://github.com/Ashish-khanagwal/Awesome-web-dev/tree/main/Dhruvi's-Frontend-Project/Day%20(STICKY%20NOTES)) |
@@ -16,7 +16,7 @@
 
 </div>
 
-<h1 align="center">Connect with me</h1>
+<h1 align="center">connect with me</h1>
 
 <h3 align="center">Dhruvi Thakkar</h3>
 <div align="center">
